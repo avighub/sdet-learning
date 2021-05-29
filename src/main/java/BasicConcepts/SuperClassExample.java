@@ -1,4 +1,4 @@
-package Example1;
+package BasicConcepts;
 
  class A {
 	 public A() {
