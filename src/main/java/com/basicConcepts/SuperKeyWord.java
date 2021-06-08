@@ -1,4 +1,4 @@
-package BasicConcepts;
+package com.basicConcepts;
 
 public class SuperKeyWord {
 }
